@@ -72,7 +72,7 @@ Alerts are delivered as native desktop notifications in real time.
 ### 1 — Clone the repository
 
 ```bash
-git clone https://github.com/your-username/sysguard-ai.git
+git clone https://github.com/Oundred/sysguard-ai.git
 cd sysguard-ai
 ```
 
